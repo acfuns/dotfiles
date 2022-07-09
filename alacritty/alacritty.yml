@@ -1,0 +1,66 @@
+tabspaces: 4
+live_config_reload: true
+
+# 字体配置
+font:  
+  # 常规字体
+  normal:
+    # family: Hack
+    # family: "Sarasa Mono SC"
+    family: "Input"  #目前的版本不支持连字
+    # 字体风格
+    style: Regular
+
+  # 粗体
+  bold:
+    family: "Input"
+    style: Bold
+
+  # 斜体
+  italic:
+    family: "Input"
+    style: Italic
+
+  # 斜粗体
+  # bold_italic:
+    # family: monospace
+    # style: Bold Italic
+
+  # 字体大小
+  size: 12
+
+# VSCode's integrated terminal default colors
+# Primary and dimmed colors needed
+
+colors:
+  # Default colors
+  primary:
+    background: '#1e1e1e' #Background from Dark Theme
+    foreground: '#cccccc'
+
+  # Selection colors
+  selection:
+    text: CellForeground
+    background: '#565656'
+
+  # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#cd3131'
+    green:   '#0dbc79'
+    yellow:  '#e5e510'
+    blue:    '#2472c8'
+    magenta: '#bc3fbc'
+    cyan:    '#11a8cd'
+    white:   '#e5e5e5'
+
+  # Bright colors
+  bright:
+    black:   '#666666'
+    red:     '#f14c4c'
+    green:   '#23d18b'
+    yellow:  '#f5f543'
+    blue:    '#3b8eea'
+    magenta: '#d670d6'
+    cyan:    '#29b8db'
+    white:   '#e5e5e5'
