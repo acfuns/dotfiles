@@ -24,3 +24,6 @@ My dotfiles
 我的开发环境是Arch Linux,桌面是i3wn,i3wn稍微美化了一点，但是没有下载任何插件，也属于开箱即用。
 
 终端是Alacritty,速度最快的终端，不过开箱简陋，需要一丁丁点配置。
+
+## initial
+zsh ohmyzsh starship git neovim ripgrep typst gcc/clang python/uv jdk/maven node/pnpm rust zed idea+ clash google
